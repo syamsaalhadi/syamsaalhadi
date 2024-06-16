@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Syamsa and I like learning programming, especially web developer and iOS dev.
+- 🔭 I’m currently studying at the [Islamic University of Lamongan](https://unisla.ac.id/)
+- 🌱 I’m currently learning Web Dev and Ios Dev 
+- 👯 collaborate with me this is my email [here](mailto:aamelek0@gmail.com)
 <!--
 **syamsaalhadi/syamsaalhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
