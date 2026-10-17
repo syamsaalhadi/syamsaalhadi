@@ -1,14 +1,70 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syamsaall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syamsa-al-hadi/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gearifycode) 
+<div align="center">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syamsaalhadi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=syamsaalhadi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syamsaalhadi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Syamsa%20Al%20Hadi&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=58&descSize=18" width="100%" />
+
+<a href="https://github.com/syamsaalhadi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Fullstack+Web+Developer;Next.js+%7C+React+%7C+Laravel+%7C+Node.js;UI%2FUX+minded%2C+product+driven;Building+digital+products+for+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/syamsaall)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syamsa-al-hadi/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@gearifycode)
+
+<img src="https://visitcount.itsvg.in/api?id=syamsaalhadi&icon=0&color=0" alt="visitors" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=syamsaalhadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Informatics Engineering student @ Universitas Islam Lamongan
+- 🚀 Fokus di **fullstack web development** dan **UI/UX**, bikin produk digital yang beneran kepakai
+- 🧱 Terbiasa end-to-end: desain → frontend → backend → database → deploy
+- 📫 Kontak lewat LinkedIn atau Instagram di atas
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,python,flask,dotnet,prisma,apache&perline=8" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,supabase,netlify,vercel,git,figma&perline=8" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Deskripsi | Stack |
+|---|---|---|
+| 🐟 **Margoanyar UMKM Site** | Website fullstack untuk UMKM olahan ikan Desa Margoanyar | Next.js, Prisma |
+| 💍 **Temantenku** | Platform layanan undangan pernikahan digital | Web Platform |
+| 🏘️ **KKN Desa Bambang Dashboard** | Dashboard internal koordinasi kegiatan KKN | Web Dashboard |
+| 🥚 **Prediksi Produksi Telur (Skripsi)** | Web perbandingan Random Forest vs XGBoost untuk produksi telur ayam Lohmann Brown | Flask, Chart.js, ML |
+
+> 🔗 Tambahkan link repo/demo di tiap project biar bisa diklik.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=syamsaalhadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamsaalhadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=syamsaalhadi&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syamsaalhadi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=syamsaalhadi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
