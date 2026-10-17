@@ -12,8 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syamsa-al-hadi/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@gearifycode)
 
-<img src="https://visitcount.itsvg.in/api?id=syamsaalhadi&icon=0&color=0" alt="visitors" />
-
 </div>
 
 ---
