@@ -46,9 +46,7 @@
 
 <img src="https://streak-stats.demolab.com?user=syamsaalhadi&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syamsaalhadi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=syamsaalhadi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
