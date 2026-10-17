@@ -39,19 +39,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| 🐟 **Margoanyar UMKM Site** | Website fullstack untuk UMKM olahan ikan Desa Margoanyar | Next.js, Prisma |
-| 💍 **Temantenku** | Platform layanan undangan pernikahan digital | Web Platform |
-| 🏘️ **KKN Desa Bambang Dashboard** | Dashboard internal koordinasi kegiatan KKN | Web Dashboard |
-| 🥚 **Prediksi Produksi Telur (Skripsi)** | Web perbandingan Random Forest vs XGBoost untuk produksi telur ayam Lohmann Brown | Flask, Chart.js, ML |
-
-> 🔗 Tambahkan link repo/demo di tiap project biar bisa diklik.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
